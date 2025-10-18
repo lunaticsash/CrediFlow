@@ -1,4 +1,4 @@
-##🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 
 Follow these steps to set up CrediFlow locally 👇
 
